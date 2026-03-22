@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+pkg/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
